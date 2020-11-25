@@ -12,6 +12,10 @@ We don't collect any personal data from your device. Everything you do is saved 
 
 When you use our software we may record some usage analytics and crash logs. The sole purpose of the data we collect is to help us make better decisions on where to focus our efforts and improve our software.
 
+### 3d Party Advertising
+We keep this app free by showing ADS from Admob.
+
+
 ### Usage analytics
 The app usage analytics collected is minimal but essential to help us run our business. Currently we collect:
 
